@@ -1,1 +1,17 @@
 
+h1 {
+  text-align: center;
+}
+
+#animal-info {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 24px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
